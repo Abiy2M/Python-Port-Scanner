@@ -5,6 +5,6 @@ It has the following features:
   - option to export scan results to an excel file
  
  Features to be implemented in the future:
-    - multi threading
-    - proper use of async.io
-    - support for URLs in addition to IP addresses
+ - multi threading
+ - proper use of async.io
+ - support for URLs in addition to IP addresses
